@@ -12,7 +12,7 @@ This Python script allows users to input a string and receive its URL encoded ve
 
 2. **Run the script:**
    ```bash
-    python url_encoder.py
+    python urlEncoder.py
 
 
    
