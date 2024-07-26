@@ -7,7 +7,7 @@ This Python script allows users to input a string and receive its URL encoded ve
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sasquatchchicken/urlEencoder.git
+   git clone https://github.com/sasquatchchicken/urlEncoder.git
    cd urlEncoder
 
 2. **Run the script:**
